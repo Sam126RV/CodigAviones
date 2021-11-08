@@ -120,7 +120,7 @@ int main(){
           singa_p=(singa*100)/cont;
           tai_p=(tai*100)/cont;
 
-          if (ale_p_p>=20)
+          if (ale_p>=20)
         {
           cout<<"Tiene mayor contacto"<<endl;
         }
